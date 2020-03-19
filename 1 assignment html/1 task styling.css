@@ -1,0 +1,118 @@
+main{
+    display: inline-block;
+    width: 60%;
+    margin-left: 100px;
+}
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 50px;
+  }
+  aside {
+    float:right;
+    margin-left: 2%;
+
+    }
+img.sub-image{
+    height: 40%;
+    width:48%;
+}
+.para{
+    text-align:justify;
+}
+.main-image{
+    width:90px;
+    height: 90px;
+    padding: 1px;
+}
+.category{
+    background-color: whitesmoke;
+    padding:5%;
+    margin-top: 2%;
+}
+
+.news{
+    background-color: whitesmoke;
+    padding:5%;
+}
+.images{
+    background-color: whitesmoke;
+}
+.ad-image{
+    width: 200px;
+    height: 200px;
+    padding: 7px;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding:1px;
+}
+.ads{
+background-color: whitesmoke; 
+margin-top: 10px;
+margin-left: 2px;
+padding: 5px;
+}  
+
+.comment
+{
+    background-color:whitesmoke;
+    width:90%;
+    height:55%;
+    padding: 5%;
+    text-align: start;
+    
+}
+
+.comment input{
+    height: 10%;
+    width: 45%;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.com input{
+    height:30%;
+    width:95%;
+}
+button{
+    height:10%;
+    width: 95%;
+    margin-left: 1px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+.tr button{
+    height:5%;
+    width:10%;
+}
+.tr button:hover{
+    background-color: red;
+    color: white;
+}
+
+.foot{
+    text-align: center;
+    margin-top: 5%;
+    background-color: whitesmoke;
+}
+a{
+    text-decoration: none;
+   
+    color: black;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
+.tab{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left:10%;
+}
+.tab select{
+    border: none;
+}
